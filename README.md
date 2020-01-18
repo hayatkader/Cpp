@@ -1,2 +1,2 @@
-# C-
+# C++
 To program in C++
